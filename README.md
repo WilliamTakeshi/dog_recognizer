@@ -1,8 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/belinha.jpg "My dog :)"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+[image1]: ./images/mydog.png "My dog :)"
 
 
 ## Project Overview
